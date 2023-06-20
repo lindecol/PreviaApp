@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreviaApp", "PreviaApp\PreviaApp.csproj", "{18782CAD-EEE0-49EE-953C-38028756E32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18782CAD-EEE0-49EE-953C-38028756E32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18782CAD-EEE0-49EE-953C-38028756E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18782CAD-EEE0-49EE-953C-38028756E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18782CAD-EEE0-49EE-953C-38028756E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66D58EE-8050-49F9-A2CB-784334E20A71}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.104.0.31:8080/tfs/fuentes%20praxair
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PreviaApp\\PreviaApp.csproj
+		SccProjectName1 = PreviaApp
+		SccLocalPath1 = PreviaApp
+	EndGlobalSection
+EndGlobal
